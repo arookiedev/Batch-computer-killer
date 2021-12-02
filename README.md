@@ -9,3 +9,5 @@ Btw, this is normal if I didn't use the %USERNAME% var line 15 beacause the comm
 
 Special thanks to ThioJoe, a hight tech youtuber who gave me this idea in this video : https://www.youtube.com/watch?v=IZQ72ognqac
 Here is his youtube channel :https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ
+
+CV Matthieu ?
